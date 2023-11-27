@@ -1,0 +1,11 @@
+VSC Extensions:
+1. Excalidraw
+    - https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor
+
+Dependencies: 
+1. Numpy
+    - pip install numpy
+2. MatPlotLib
+    - pip install matplotlib
+3. Qiskit
+    - pip install qiskit
